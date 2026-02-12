@@ -1,3 +1,3 @@
 # my-first-repo
 
-![foto van Jo](jo-bonton.jpg)
+![foto van Jo](jo-bonten.jpg)
